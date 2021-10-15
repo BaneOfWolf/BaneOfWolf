@@ -1,0 +1,41 @@
+.GreenB {
+    background: green;
+}
+
+.GrayB {
+    background: gray;
+}
+
+.BlackB {
+    background: rgb(39, 37, 37);
+}
+
+.LaveB {
+    background-color: rgb(156, 11, 59);
+}
+
+.RedW {
+    color: red;
+}
+
+.BlueW {
+    color: blue;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid crimson;
+    padding: 10px 15px;
+}
+
+th {
+    border: 1px solid crimson;
+    padding: 10px 15px;
+}
+
+.x-large {
+    font-size: x-large;
+}
